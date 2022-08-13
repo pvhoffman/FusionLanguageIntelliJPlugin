@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pvhoffman.fusionlanguageintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pvhoffman.fusionlanguageintellijplugin.MyBundle
 
 class MyApplicationService {
 
